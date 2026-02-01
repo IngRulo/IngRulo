@@ -35,3 +35,6 @@ Me interesa transformar datos en insights accionables, automatizar procesos de a
 - GitHub
 - Anaconda
 - Jupyter
+
+
+LinkedIn: https://www.linkedin.com/in/raultovarvillarreal/
