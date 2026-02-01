@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hola, soy Raúl Tovar 👋
+Soy Analista de Datos Junior con formación en análisis, limpieza y visualización de datos utilizando Python y SQL.
 
-<!--
-**IngRulo/IngRulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuento con experiencia previa como programador web y profesor de programación, lo que me ha permitido desarrollar una sólida base en lógica, estructuración de datos y comunicación clara de resultados técnicos.
 
-Here are some ideas to get you started:
+Me interesa transformar datos en insights accionables, automatizar procesos de análisis y trabajar en proyectos donde la toma de decisiones esté basada en datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Stack Tecnológico
+📊 Data Analytics
+- Analisis de datos
+- Python
+- SQL
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Limpieza de datos
+- insights
+- Visualización de datos
+- Exploración y analisis de datos
+
+💻 Desarrollo Web
+- Desarrollador web
+- HTML
+- CSS
+- Bootstrap
+- PHP
+- JavaScript
+- MySQL
+- Json
+- Ajax
+
+⚙️ Herramientas
+- Visual studio code
+- GitHub
+- Anaconda
+- Jupyter
